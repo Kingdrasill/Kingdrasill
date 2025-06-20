@@ -46,7 +46,3 @@ I am studying Computer Engineering at CEFET-MG Campus V
 <p><img src="https://github-readme-stats.vercel.app/api?username=Kingdrasill&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingdrasill&layout=compact"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingdrasill"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=Kingdrasill&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
